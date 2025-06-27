@@ -36,3 +36,4 @@ uritemplate==4.1.1
 urllib3==2.4.0
 yarl==1.20.0
 Flask
+gunicorn
